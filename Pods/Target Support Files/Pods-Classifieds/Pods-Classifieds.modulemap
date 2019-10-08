@@ -1,0 +1,6 @@
+module Pods_Classifieds {
+  umbrella header "Pods-Classifieds-umbrella.h"
+
+  export *
+  module * { export * }
+}
